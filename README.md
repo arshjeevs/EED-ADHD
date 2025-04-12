@@ -1,7 +1,3 @@
-Sure! Here's a polished and professional `README.md` for your project:
-
----
-
 # EEG-based ADHD Classification using Deep Learning
 
 This project presents a deep learning-based approach to classify Attention Deficit Hyperactivity Disorder (ADHD) and control subjects using EEG (Electroencephalogram) signals. The model combines Convolutional Neural Networks (CNN) with Long Short-Term Memory (LSTM) layers to learn both spatial and temporal features from EEG data.
@@ -124,7 +120,3 @@ python evaluate.py
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you want it tailored to a specific audience (e.g., medical researchers, Kaggle users) or if you'd like a lighter version!
